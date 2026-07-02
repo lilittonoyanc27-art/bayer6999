@@ -1,0 +1,6 @@
+{
+  "name": "Quiz: Ser o Estar",
+  "description": "Интерактивная викторина из 30 вопросов и 5 увлекательных игр для изучения разницы между испанскими глаголами SER и ESTAR с подробными объяснениями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
